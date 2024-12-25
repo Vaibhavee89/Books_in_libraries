@@ -1,6 +1,4 @@
 
-
-```markdown
 # Book Clustering with KMeans
 
 ## Project Overview
