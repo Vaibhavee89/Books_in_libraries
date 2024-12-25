@@ -121,10 +121,6 @@ pip install pandas numpy scikit-learn
 - `book.csv`: The dataset containing book information.
 - Jupyter notebook file containing the complete clustering code.
 
-## Future Enhancements
 
-- Fine-tune the number of clusters (`n_clusters`) for better categorization.
-- Implement dimensionality reduction (e.g., PCA) to visualize the clusters.
-- Perform further exploratory data analysis (EDA) to gain insights into the data.
 
 
